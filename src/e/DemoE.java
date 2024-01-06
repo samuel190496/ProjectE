@@ -6,9 +6,9 @@ public class DemoE {
 		
 		System.out.println("Git hub set up");
 		System.out.println("Fahim is doing okey ");
-		System.out.println("usa 2024");
 		
-		System.out.println("java is fun");
+		
+		
 		
 	
 	}
