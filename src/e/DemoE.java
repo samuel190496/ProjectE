@@ -10,10 +10,15 @@ public class DemoE {
 		System.out.println("EDris ali delet");
 		
 		
+			
+		}
+		
+		
+
 		
 		
 	
 	}
 	
 
-}
+
